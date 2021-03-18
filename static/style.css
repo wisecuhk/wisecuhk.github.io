@@ -1,0 +1,11 @@
+body {
+    font-family: 'Serif';
+}
+
+h2 {
+    text-transform: capitalize;
+}
+
+li {
+    margin: 6px 0;
+}
