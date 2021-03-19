@@ -22,6 +22,9 @@ section {
     color: #403f44;
     background-color: #eee;
 }
+a {
+    color: inherit;
+}
 a:visited {
     color: inherit;
 }
