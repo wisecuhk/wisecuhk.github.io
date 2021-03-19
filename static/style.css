@@ -8,8 +8,9 @@ body {
 }
 
 h1 {
-    font-family: 'Century Gothic', Century-Gothic, Century Gothic, AppleGothic, sans-serif;
-    letter-spacing: 3em;
+    font-family: noto-serif, serif;
+    font-style: Bold;
+    /*letter-spacing: 3em;*/
 }
 
 h2 {
