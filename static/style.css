@@ -2,14 +2,18 @@ body {
     background-color: #403f44;
     color: #eee;
     /*font-family: 'Times new roman', serif;*/
-    font-family: noto-serif, serif;
+    font-family: source-sans-pro, sans-serif;
     width: 50%;
     margin: 1em auto 5em;
 }
 
 h1 {
     font-family: 'Century Gothic', Century-Gothic, Century Gothic, AppleGothic, sans-serif;
-    letter-spacing: 2em;
+    letter-spacing: 3em;
+}
+
+h2 {
+    font-family: noto-serif, serif;
 }
 
 @media(max-width:500px){
