@@ -1,7 +1,8 @@
 body {
     background-color: #403f44;
     color: #eee;
-    font-family: 'Times new roman', serif;
+    /*font-family: 'Times new roman', serif;*/
+    font-family: noto-serif, serif;
     width: 50%;
     margin: 1em auto 5em;
 }
