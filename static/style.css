@@ -1,9 +1,36 @@
 body {
-    font-family: 'Serif';
+    background-color: #403f44;
+    color: #eee;
+    font-family: 'Times new roman', serif;
+    width: 50%;
+    margin: 1em auto 5em;
 }
-
+@media(max-width:500px){
+    body {
+        width: 80%;
+    }
+}
+header {
+    text-align: center;
+    margin: 4em auto 4em;
+    color: #eb9f5d;
+}
+section {
+    margin-bottom: 3em;
+}
+::selection {
+    color: #403f44;
+    background-color: #eee;
+}
+a:visited {
+    color: inherit;
+}
+a:hover {
+    color: #fff;
+}
 h2 {
     text-transform: capitalize;
+    color: #eac6a6;
 }
 
 li {
